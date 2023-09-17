@@ -1,0 +1,23 @@
+.ALVING { 
+color:black;
+font-family:cursive;
+}
+.ALVING2 {
+    color:chocolate;
+}
+.MANDERS { 
+    color:black;
+    font-family:cursive;
+    }
+.MANDERS2 {
+    color:deeppink;
+}
+.ALVING1 {
+color:black;
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+background-color:lightgreen;
+}
+.ALVING1:hover {
+    color:blue;
+    background-color:lightpink;
+}
