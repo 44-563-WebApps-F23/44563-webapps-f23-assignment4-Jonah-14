@@ -1,15 +1,15 @@
-.ALVING { 
+.ALVING , .ALVING4 { 
 color:black;
 font-family:cursive;
 }
-.ALVING2 {
+.ALVING2 , .ALVING3 {
     color:chocolate;
 }
-.MANDERS { 
+.MANDERS , .MANDERS4 { 
     color:black;
     font-family:cursive;
     }
-.MANDERS2 {
+.MANDERS2, .MANDERS3 {
     color:deeppink;
 }
 .ALVING1 {
