@@ -21,7 +21,7 @@ background-color:lightgreen;
     color:blue;
     background-color:lightpink;
 }
-table,th,td {
+table,tr,th,td {
     border: 2px solid red;
     padding: 10px;
     background-color: beige;
