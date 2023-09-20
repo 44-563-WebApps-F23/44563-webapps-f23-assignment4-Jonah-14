@@ -21,14 +21,14 @@ background-color:lightgreen;
     color:blue;
     background-color:lightpink;
 }
-table,tr,th,td {
+table,th,td {
     border: 2px solid red;
-    border-collapse: collapse;
     padding: 10px;
-    background-color:beige;
+    background-color: beige;
     text-align: center;
     color:goldenrod;
     margin: 2px;
+    
 }
 .MANDERS3:hover {
     color:brown;
