@@ -43,3 +43,37 @@ table,tr,th,td {
     text-align: center;
     
 }
+.navbar-horizontal{
+    padding: 15px;
+    float:left;
+    background-color:black;
+    color:black;
+    display:block;
+    
+  }
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px 18px;
+    text-decoration: none;
+  }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #d62929;
+  }
+  
+  li {
+    float: left;
+  }
+  .img{
+    width: 150px;
+    height: 200px;
+    margin-top: 30px;
+  margin-bottom: 11px;
+    margin-right: 100px;
+   margin-left: 80px;
+  }
