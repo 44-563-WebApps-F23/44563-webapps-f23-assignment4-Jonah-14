@@ -27,6 +27,19 @@ table,tr,th,td {
     padding: 10px;
     background-color:beige;
     text-align: center;
-    color: brown;
+    color:goldenrod;
     margin: 2px;
+}
+.MANDERS3:hover {
+    color:brown;
+    text-shadow: 1px 1px 1px gray;
+    filter: blur(1px);
+    border-width:1px;
+    height: 10px;
+    width: 70px;
+    border-style:solid; 
+    border-color:darkred;
+    padding:2px;
+    text-align: center;
+    
 }
